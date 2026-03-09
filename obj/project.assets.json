@@ -4480,6 +4480,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Microsoft.AspNetCore.OpenApi >= 8.0.24",
+      "Microsoft.EntityFrameworkCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
@@ -4493,11 +4494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Kutbay\\Desktop\\FinShark\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\Kutbay\\Desktop\\FinShark\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\Users\\Kutbay\\Desktop\\FinShark\\api\\api.csproj",
+      "projectPath": "C:\\Users\\Kutbay\\Desktop\\FinShark\\api\\api.csproj",
       "packagesPath": "C:\\Users\\Kutbay\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Kutbay\\Desktop\\FinShark\\api\\obj\\",
+      "outputPath": "C:\\Users\\Kutbay\\Desktop\\FinShark\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4539,6 +4540,10 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[8.0.24, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[8.0.0, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",

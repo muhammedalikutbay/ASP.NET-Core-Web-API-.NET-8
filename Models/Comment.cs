@@ -16,4 +16,4 @@ namespace api.Models
         // Navigation property to the Stock entity
         public Stock? Stock { get; set; }
     }
-}
+ }
